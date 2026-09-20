@@ -80,7 +80,7 @@ Progressive web app for customers and staff
 PWA · Web App
 
 **Simu Jiji Platform**
-Web storefront, API, and PocketBase backend
+Storefront, API, and PocketBase backend
 
 Next.js · PocketBase · JavaScript
 
@@ -132,18 +132,18 @@ Full microfinance management — loans, savings, and reporting
 
 React · Supabase · Vite
 
-**Mukwano Microfinance**
-Microfinance operations — daily loan and savings workflows
+**Mukwano Financial Services**
+Secure microfinance platform — borrowers, loans, centers and groups by branch, disbursements, repayments, installment schedules, arrears and defaulter tracking, role-based access, live sync, and reports
 
-React · Supabase · Vite
+React · Vite · Supabase
 
 </td>
 <td width="50%" valign="top">
 
 **Mukwano Loans**
-Dedicated microfinance loan management system
+Microfinance loan management — borrowers, centers and groups, disbursements, repayment schedules, collections, arrears and defaulters, and branch-scoped dashboards
 
-React · Vite
+React · Vite · Supabase
 
 **IBS Accounts**
 Payroll & accounting software for growing teams in Tanzania — [ibsaccounts.com](https://ibsaccounts.com)
@@ -168,7 +168,7 @@ Next.js · TypeScript
 <td width="50%" valign="top">
 
 **Pharmacy PMS**
-Pharmacy Management System — products, purchases, sales, expenses, and reports
+Pharmacy operations platform — multi-branch inventory with batch and expiry tracking, real-time stock control, sales, purchases, expense management, role-based access, and automated reports
 
 Next.js · TypeScript · Prisma · SQLite
 
@@ -176,9 +176,9 @@ Next.js · TypeScript · Prisma · SQLite
 <td width="50%" valign="top">
 
 **VugaTalk**
-Web-based communication platform
+Communication platform
 
-React · Web
+React
 
 </td>
 </tr>
@@ -195,7 +195,7 @@ Gosany enterprise platform — modular monolith for hospitality and enterprise p
 
 TypeScript · pnpm · GoSEP SDK · [gosany.co.tz](https://gosany.co.tz)
 
-**GoHostels One (Web)**
+**GoHostels One**
 Hostel discovery, booking, rent payments, and tenancy management — [gosany.co.tz/gohostels](https://gosany.co.tz/gohostels)
 
 React · Vite · Supabase · Capacitor
