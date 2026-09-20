@@ -142,10 +142,15 @@ Dedicated microfinance loan management system
 
 React · Vite
 
-**IBS Accounts**
-Accounting platform — Web D SPA and marketing website
+**IBS Accounts (Web D)**
+Cloud accounting & ERP — general ledger, sales & purchase invoicing, inventory, fixed assets, bank reconciliation, VAT, multi-currency, payroll, and financial statements
 
-Next.js · Supabase · TypeScript
+React · Vite · Supabase · TypeScript
+
+**IBS Accounts Website**
+Marketing website for IBS Accounts software
+
+Next.js · TypeScript
 
 </td>
 </tr>
