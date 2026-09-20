@@ -58,12 +58,12 @@ Willing to learn new knowledge and Share my skills.
 <tr>
 <td width="50%" valign="top">
 
-**Simu Jiji** *(client project)*
-E-commerce platform — lead developer
+**Simu Jiji**
+E-commerce platform — designed and built end-to-end
 
 TanStack Start · Supabase · Vercel
 
-**Simu Jiji Portal** *(client project)*
+**Simu Jiji Portal**
 Business management — POS, inventory, and store operations
 
 React · Supabase · Vite
@@ -71,12 +71,12 @@ React · Supabase · Vite
 </td>
 <td width="50%" valign="top">
 
-**Simu Jiji PWA** *(client project)*
+**Simu Jiji PWA**
 Progressive web app for customers and staff
 
 PWA · Web App
 
-**Simu Jiji Monorepo** *(client project)*
+**Simu Jiji Monorepo**
 Web storefront, API, and PocketBase backend
 
 Next.js · PocketBase · JavaScript
