@@ -165,7 +165,10 @@ Next.js · TypeScript · Prisma · SQLite
 </td>
 <td width="50%" valign="top">
 
-&nbsp;
+**VugaTalk**
+Jukwaa la mawasiliano ya wavuti
+
+React · Web
 
 </td>
 </tr>
