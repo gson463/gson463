@@ -142,13 +142,15 @@ Dedicated microfinance loan management system
 
 React · Vite
 
-**IBS Accounts (Web D)**
-Cloud accounting & ERP — general ledger, sales & purchase invoicing, inventory, fixed assets, bank reconciliation, VAT, multi-currency, payroll, and financial statements
+**IBS Accounts**
+Payroll & accounting software for growing teams in Tanzania — [ibsaccounts.com](https://ibsaccounts.com)
+
+Payroll Gateway (PPGS-V1) · Accounting (PASG-V1) · Integrated stack (PAPSG-V1) · General ledger · Invoicing · Inventory · Assets · Bank reconciliation · VAT · Multi-currency · Financial statements
 
 React · Vite · Supabase · TypeScript
 
-**IBS Accounts Website**
-Marketing website for IBS Accounts software
+**IBS Accounts — Product Site**
+Official website — TZS subscription packages, payroll bands by headcount, accounting tiers, training, and support
 
 Next.js · TypeScript
 
