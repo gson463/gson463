@@ -4,9 +4,10 @@
 
 ### @gson463
 
-![CEH](https://img.shields.io/badge/CEH-Certified-red?style=for-the-badge)
+![CEH Essentials](https://img.shields.io/badge/CEH-Essentials-red?style=for-the-badge)
+![eJPT Certified](https://img.shields.io/badge/INE-eJPT_Certified-0066FF?style=for-the-badge)
+![Network Defender Essentials](https://img.shields.io/badge/Network_Defender-Essentials-0d1117?style=for-the-badge)
 ![Tanzania](https://img.shields.io/badge/Tanzania-008751?style=for-the-badge)
-![Cyber Security](https://img.shields.io/badge/Cyber-Security-0d1117?style=for-the-badge)
 ![Full-Stack Developer](https://img.shields.io/badge/Full--Stack-Developer-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
 
 <br />
@@ -21,7 +22,9 @@
 
 ## About
 
-TZ-Cyber Security Expert | CEH Certified | Software Developer | Android Developer | ICT Consultant.
+TZ-Cyber Security Expert | CEH Essentials | INE eJPT Certified | Network Defender Essentials | Software Developer | Android Developer | ICT Consultant.
+
+**CEO**, Vogu Ethics Organization · **Technical & ICT Director**, GNASP Technologies
 
 Willing to learn new knowledge and Share my skills.
 
@@ -294,6 +297,6 @@ Expo · React Native · Supabase · TypeScript
 
 *977+ contributions · Building from Tanzania*
 
-**Vogu Ethics Organization** · Tanzania
+**CEO**, Vogu Ethics Organization · **Technical & ICT Director**, GNASP Technologies · Tanzania
 
 </div>
