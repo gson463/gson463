@@ -76,7 +76,7 @@ Progressive web app for customers and staff
 
 PWA · Web App
 
-**Simu Jiji Monorepo**
+**Simu Jiji Platform**
 Web storefront, API, and PocketBase backend
 
 Next.js · PocketBase · JavaScript
@@ -236,7 +236,7 @@ Next.js · TypeScript · Hostinger
 **Plusnology**
 Technology business website and platform
 
-React · Node.js · Monorepo
+React · Node.js
 
 </td>
 </tr>
