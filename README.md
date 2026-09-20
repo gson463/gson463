@@ -188,20 +188,25 @@ React · Web
 **Gosany Platform (GOSEP)**
 Gosany enterprise platform — modular monolith for hospitality and enterprise products
 
-TypeScript · pnpm · GoSEP SDK
+TypeScript · pnpm · GoSEP SDK · [gosany.co.tz](https://gosany.co.tz)
 
-**GoHostels**
-Hostel management system — landlord and student applications
+**GoHostels One (Web)**
+Hostel discovery, booking, rent payments, and tenancy management — [gosany.co.tz/gohostels](https://gosany.co.tz/gohostels)
 
-React · Vite · Supabase
+React · Vite · Supabase · Capacitor
 
 </td>
 <td width="50%" valign="top">
 
-**Gosany GoHostels**
-Hostel portal for students and property owners
+**GoHostels One — Student App**
+Android & iOS mobile app for students — search hostels, book rooms, pay rent
 
-JavaScript · Vite
+Capacitor · React · Android · iOS
+
+**GoHostels One — Landlord App**
+Android & iOS mobile app for property owners — listings, tenants, and payments
+
+Capacitor · React · Android · iOS
 
 **Compliance Portal**
 Subscription, licensing, and vehicle service management (oil, tyres)
