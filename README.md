@@ -124,7 +124,7 @@ PHP · MySQL
 <tr>
 <td width="50%" valign="top">
 
-**FCL Microfinance**
+**FCL (Fahari Credits Limited)**
 Full microfinance management — loans, savings, and reporting
 
 React · Supabase · Vite
