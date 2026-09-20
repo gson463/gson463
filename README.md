@@ -58,26 +58,26 @@ Willing to learn new knowledge and Share my skills.
 <tr>
 <td width="50%" valign="top">
 
-**Simu Jiji**
-E-commerce ya simu Tanzania — [simujiji.com](https://www.simujiji.com)
+**Simu Jiji** *(client project)*
+E-commerce platform — lead developer
 
 TanStack Start · Supabase · Vercel
 
-**Simu Jiji Portal**
-Usimamizi wa biashara ya simu — POS, inventory, na shughuli za duka
+**Simu Jiji Portal** *(client project)*
+Business management — POS, inventory, na shughuli za duka
 
 React · Supabase · Vite
 
 </td>
 <td width="50%" valign="top">
 
-**Simu Jiji PWA**
-Progressive web app kwa wateja na wafanyakazi wa Simu Jiji
+**Simu Jiji PWA** *(client project)*
+Progressive web app kwa wateja na wafanyakazi
 
 PWA · Web App
 
-**Simu Jiji Monorepo**
-Web storefront, API, na PocketBase backend kwa mfumo wa simu
+**Simu Jiji Monorepo** *(client project)*
+Web storefront, API, na PocketBase backend
 
 Next.js · PocketBase · JavaScript
 
@@ -269,8 +269,8 @@ Expo · React Native · Supabase · TypeScript
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-voguethics.org-e94560?style=for-the-badge&logo=googlechrome&logoColor=white)](https://voguethics.org)
-[![Simu Jiji](https://img.shields.io/badge/Simu_Jiji-simujiji.com-008751?style=for-the-badge&logo=shoppingcart&logoColor=white)](https://www.simujiji.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-gson463.github.io-e94560?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gson463.github.io)
+[![Vogu Ethics](https://img.shields.io/badge/Vogu_Ethics-voguethics.org-0d1117?style=for-the-badge&logo=shield&logoColor=white)](https://voguethics.org)
 [![X](https://img.shields.io/badge/X-@voguethicsorg-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/voguethicsorg)
 [![GitHub](https://img.shields.io/badge/GitHub-gson463-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gson463)
 
