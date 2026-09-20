@@ -64,7 +64,7 @@ E-commerce platform — lead developer
 TanStack Start · Supabase · Vercel
 
 **Simu Jiji Portal** *(client project)*
-Business management — POS, inventory, na shughuli za duka
+Business management — POS, inventory, and store operations
 
 React · Supabase · Vite
 
@@ -72,12 +72,12 @@ React · Supabase · Vite
 <td width="50%" valign="top">
 
 **Simu Jiji PWA** *(client project)*
-Progressive web app kwa wateja na wafanyakazi
+Progressive web app for customers and staff
 
 PWA · Web App
 
 **Simu Jiji Monorepo** *(client project)*
-Web storefront, API, na PocketBase backend
+Web storefront, API, and PocketBase backend
 
 Next.js · PocketBase · JavaScript
 
@@ -92,12 +92,12 @@ Next.js · PocketBase · JavaScript
 <td width="50%" valign="top">
 
 **BLB (BELIBELI Digital Manager)**
-Usimamizi wa mali, vyumba, wapangaji, mikataba, na malipo
+Property, units, tenants, leases, invoices, and payments management
 
 React · Vite · PocketBase
 
 **Nyumba Cloud**
-Mfumo wa usimamizi wa mali na upangaji — property / tenancy app
+Property and tenancy management application
 
 React · Supabase · Vite
 
@@ -105,12 +105,12 @@ React · Supabase · Vite
 <td width="50%" valign="top">
 
 **GoMakazi**
-Jukwaa la kupangisha mali nchini Tanzania — tenants na landlords
+Tanzania rental platform for tenants and landlords
 
 React · Supabase · Vite
 
-**Tanzania Plots Portal (Viwanja)**
-Mfumo wa usimamizi wa viwanja na ardhi — GNASP Technologies
+**Tanzania Plots Portal**
+Land and plot management system — GNASP Technologies
 
 PHP · MySQL
 
@@ -125,12 +125,12 @@ PHP · MySQL
 <td width="50%" valign="top">
 
 **FCL Microfinance**
-Mfumo kamili wa usimamizi wa microfinance — mikopo, akiba, na ripoti
+Full microfinance management — loans, savings, and reporting
 
 React · Supabase · Vite
 
 **Mukwano Microfinance**
-Usimamizi wa shirika la microfinance — loans na operesheni za kila siku
+Microfinance operations — daily loan and savings workflows
 
 React · Supabase · Vite
 
@@ -138,12 +138,12 @@ React · Supabase · Vite
 <td width="50%" valign="top">
 
 **Mukwano Loans**
-Mfumo maalum wa usimamizi wa mikopo ya microfinance
+Dedicated microfinance loan management system
 
 React · Vite
 
 **IBS Accounts**
-Mfumo wa uhasibu — Web D SPA na tovuti ya marketing
+Accounting platform — Web D SPA and marketing website
 
 Next.js · Supabase · TypeScript
 
@@ -158,7 +158,7 @@ Next.js · Supabase · TypeScript
 <td width="50%" valign="top">
 
 **Pharmacy PMS**
-Pharmacy Management System — bidhaa, manunuzi, mauzo, gharama, na ripoti kwa maduka ya dawa
+Pharmacy Management System — products, purchases, sales, expenses, and reports
 
 Next.js · TypeScript · Prisma · SQLite
 
@@ -166,7 +166,7 @@ Next.js · TypeScript · Prisma · SQLite
 <td width="50%" valign="top">
 
 **VugaTalk**
-Jukwaa la mawasiliano ya wavuti
+Web-based communication platform
 
 React · Web
 
@@ -181,12 +181,12 @@ React · Web
 <td width="50%" valign="top">
 
 **Gosany Platform (GOSEP)**
-Jukwaa la biashara la Gosany — modular monolith kwa bidhaa za hospitality na enterprise
+Gosany enterprise platform — modular monolith for hospitality and enterprise products
 
 TypeScript · pnpm · GoSEP SDK
 
 **GoHostels**
-Mfumo wa usimamizi wa hostels — landlord na student apps
+Hostel management system — landlord and student applications
 
 React · Vite · Supabase
 
@@ -194,12 +194,12 @@ React · Vite · Supabase
 <td width="50%" valign="top">
 
 **Gosany GoHostels**
-Portal ya hostels kwa wanafunzi na wamiliki wa mali
+Hostel portal for students and property owners
 
 JavaScript · Vite
 
 **Compliance Portal**
-Usimamizi wa usajili, leseni, na huduma za magari (mafuta, matairi)
+Subscription, licensing, and vehicle service management (oil, tyres)
 
 React · Vite · Supabase
 
@@ -214,7 +214,7 @@ React · Vite · Supabase
 <td width="50%" valign="top">
 
 **Vogu Ethics**
-Cybersecurity na mafunzo ya uelewa wa usalama wa mtandao kutoka Tanzania — [voguethics.org](https://voguethics.org)
+Cybersecurity and security awareness training from Tanzania — [voguethics.org](https://voguethics.org)
 
 Next.js · TypeScript · Hostinger
 
@@ -222,7 +222,7 @@ Next.js · TypeScript · Hostinger
 <td width="50%" valign="top">
 
 **Plusnology**
-Tovuti na mfumo wa biashara ya teknolojia
+Technology business website and platform
 
 React · Node.js · Monorepo
 
@@ -237,12 +237,12 @@ React · Node.js · Monorepo
 <td width="50%" valign="top">
 
 **Muhazini Portal**
-Mfumo wa desktop wa usimamizi wa fedha za kanisa — mapato, matumizi, na kibali
+Desktop church finance management — income, expenses, and approval workflows
 
 Electron · React · SQLite
 
 **Ajira Moja Mia Moja**
-Tovuti ya shirika la ajira na maendeleo ya vijana
+Employment and youth development organization website
 
 TypeScript · React
 
@@ -250,12 +250,12 @@ TypeScript · React
 <td width="50%" valign="top">
 
 **Vijana Life Organization (Vilo)**
-Tovuti ya shirika la maendeleo ya vijana — Coming Soon
+Youth development organization website — Coming Soon
 
 CSS · Web
 
 **VugaChat (TanzChina Business Chat)**
-App ya ujumbe wa biashara Tanzania–China na tafsiri ya kiotomatiki (Swahili · 中文 · English)
+Tanzania–China business messaging app with automatic multilingual translation
 
 Expo · React Native · Supabase · TypeScript
 
