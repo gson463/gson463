@@ -12,9 +12,9 @@
 
 <br />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gson463&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.shion.dev/api?username=gson463&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165" />
 <img src="https://streak-stats.demolab.com/?user=gson463&theme=react&hide_border=true" alt="GitHub Streak" height="165" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gson463&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=gson463&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
 
 </div>
 
